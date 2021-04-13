@@ -1,0 +1,8 @@
+user:
+  users:
+    - name: zhangsan
+      gender: 1
+      age: 20
+    - name: lisi
+      gender: 0
+      age: 18
